@@ -8,6 +8,8 @@
 * Dockerfile "All commands to assemble a Docker image for making the Boston housing prediction"
 * Docker_out.txt "Prediction output file for Docker image"
 * Kubernetes_out.txt "Prediction output file for Docker pod image"
+* run_kubernetes.sh "Script to tag and upload Docker image to integrate with Kubernetes"
+* run_docker.sh "Script to get Docker running locally"
 
 [![CircleCI](https://circleci.com/gh/j-j-jones/udacity-project-05-microservices.svg?style=svg)](https://circleci.com/gh/j-j-jones/udacity-project-05-microservices)
 
