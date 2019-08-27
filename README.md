@@ -7,4 +7,4 @@
 * App.py
 * Dockerfile
 
-![Lint Test Passed](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+[![CircleCI](https://circleci.com/gh/j-j-jones/udacity-project-05-microservices.svg?style=svg)](https://circleci.com/gh/j-j-jones/udacity-project-05-microservices)
