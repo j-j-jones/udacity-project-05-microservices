@@ -4,7 +4,7 @@ FROM python:3.7.3-stretch
 # Create a working directory
 WORKDIR /app
 
-MAINTAINER JJ JONES "jj.jones@live.com"
+#MAINTAINER JJ JONES "jj.jones@live.com"
 
 ## Step 2:
 # Copy source code to working directory
