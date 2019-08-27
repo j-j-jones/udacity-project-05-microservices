@@ -8,3 +8,7 @@
 * Dockerfile "All commands to assemble a Docker image for making the Boston housing prediction"
 
 [![CircleCI](https://circleci.com/gh/j-j-jones/udacity-project-05-microservices.svg?style=svg)](https://circleci.com/gh/j-j-jones/udacity-project-05-microservices)
+
+## Acknowledgments
+
+* Udacity
